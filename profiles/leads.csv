@@ -1,0 +1,5 @@
+company,role,contact_name,email,source,notes
+Google,Software Engineer,John Smith,john.smith@google.com,LinkedIn,Engineering Manager
+Meta,Product Manager,Sarah Johnson,s.johnson@meta.com,Company Website,Product Team Lead
+Apple,iOS Developer,Mike Chen,mchen@apple.com,GitHub,Core iOS Team
+Netflix,Data Scientist,Lisa Park,lisa.park@netflix.com,Hunter.io,Data Science Director 
